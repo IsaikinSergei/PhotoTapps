@@ -3,4 +3,4 @@
 # Screenshots
 ![](https://github.com/IsaikinSergei/PhotoTapps/blob/master/Screenshots/Снимок%20экрана%202020-12-31%20в%2000.10.04.png?raw=true)
 ![](https://github.com/IsaikinSergei/PhotoTapps/blob/master/Screenshots/Снимок%20экрана%202020-12-31%20в%2000.10.37.png?raw=true)
-![]()
+![](https://github.com/IsaikinSergei/PhotoTapps/blob/master/Screenshots/Снимок%20экрана%202020-12-31%20в%2000.10.53.png?raw=true)
